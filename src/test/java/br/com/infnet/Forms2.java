@@ -101,7 +101,6 @@ public class Forms2 extends BaseTest {
         city.sendKeys("Delhi");
         city.sendKeys(Keys.ENTER);
 
-
     }
 
 }
